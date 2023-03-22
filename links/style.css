@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    background-color: ghostwhite;
+    margin: auto; 
+    height: 100vh; 
+}
+.navbar ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(32, 31, 31, 0.247);
+    height: 2rem;
+}
+.navbar ul li a{
+    color: blueviolet;
+    font: 22px sans-serif;
+}
